@@ -40,3 +40,4 @@ vignettes/*.pdf
 
 # Ds store
 .DS_Store
+.Rproj.user
